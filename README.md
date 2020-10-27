@@ -1,2 +1,2 @@
-# A-C
+# A&C
 Algorithms and Complexity
