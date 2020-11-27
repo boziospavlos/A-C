@@ -24,6 +24,7 @@
 ### Οδηγίες εγκατάστασης και εκτέλεσης
 
 1.Λήψη και εγκατάσταση του Eclipse.
+
 * [Eclipse Installer](https://www.eclipse.org/downloads/packages/)
 
 2.Λήψη του κώδικα υλοποίησης.
