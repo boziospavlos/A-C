@@ -25,7 +25,7 @@
 
 * [Eclipse Installer](https://www.eclipse.org/downloads/packages/)
 
-ΣΗΜΕΙΩΣΗ: Το compile θα πραγματοποιηθεί μέσω του * [MinGW GCC](https://jmeubank.github.io/tdm-gcc/) το οποίο θα εγκατασταθεί στον υπολογιστή και θα επιλεχθεί ως toolchain κατά τη δημιουργία του project.
+ΣΗΜΕΙΩΣΗ: Το compile θα πραγματοποιηθεί μέσω του [MinGW GCC](https://jmeubank.github.io/tdm-gcc/) το οποίο θα εγκατασταθεί στον υπολογιστή και θα επιλεχθεί ως toolchain κατά τη δημιουργία του project.
 
 2.Λήψη του κώδικα υλοποίησης καθώς και του [συνόλου δεδομένων](./toronto-dataset).
 
